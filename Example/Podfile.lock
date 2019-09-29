@@ -1,0 +1,16 @@
+PODS:
+  - PRSuperImage (0.1.0)
+
+DEPENDENCIES:
+  - PRSuperImage (from `../`)
+
+EXTERNAL SOURCES:
+  PRSuperImage:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PRSuperImage: 25815023f60828345e294b45995360a1a1e4ca74
+
+PODFILE CHECKSUM: 5c6805cff1fb6fcb6dd2aed4523ae314137c851e
+
+COCOAPODS: 1.4.0
